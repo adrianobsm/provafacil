@@ -1,0 +1,3 @@
+Assunto|Enunciado|AlternativaA|AlternativaB|AlternativaC|AlternativaD|AlternativaCorreta|Justificativa
+Matemática|Quanto é 7 x 8?|48|54|56|64|C|7 multiplicado por 8 é igual a 56.
+Português|Qual opção é um substantivo?|Correr|Casa|Rapidamente|Bonito|B|Casa nomeia um objeto ou lugar.
